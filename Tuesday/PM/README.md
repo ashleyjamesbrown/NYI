@@ -4,6 +4,7 @@
 
 ### 1.5hrs
 
+- Group draw warmup (group draw!)
 - Create a new drawing tool.
 - Include instructions on how to use
 - Document your code
