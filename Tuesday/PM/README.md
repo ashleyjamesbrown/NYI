@@ -17,6 +17,7 @@
 - Update instructions on how to use.
 - Also document changes in the code. 
 - Life drawing session (using someone else's drawing tool)
+- Exhibition!
 
 ### Challenges and Ideas
 
@@ -27,7 +28,7 @@
   - Calligraphy - try making your brush a thin rectangle, try changing the angle using rotate()
   - Connect the dots (simple). Draw a line from last mouse position to current position (pmouseX, pmouseY)
   - Connect the dots (advanced). Store positions into an array and draw them each frame.
-- **Paper.** Explore what you're drawing on.
+- **Paper** Explore what you're drawing on.
   - Texture. Can you use a for loop in setup to give the paper some texture?
   - Photo. Can you import an image to use as the background?
   - Gradient. Use a for loop in setup to create a gradient to draw on.
