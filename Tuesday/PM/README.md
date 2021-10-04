@@ -42,9 +42,9 @@
   - Photo. Can you import an image to use as the background?
   - Gradient. Use a for loop in setup to create a gradient to draw on.
 - **Colour.** What colours are you using?
- - Can you copy the background colour from some real paper/canvas?
- - Can you use opacity/transparency? Add a fourth value to your colour to change transparency (Red, Green, Blue, Opacity)
- - Can you randomise the colour of the pen?
+  - Can you copy the background colour from some real paper/canvas?
+  - Can you use opacity/transparency? Add a fourth value to your colour to change transparency (Red, Green, Blue, Opacity)
+  - Can you randomise the colour of the pen?
 - **Special FX**
   - Symmetry. Can your pen draw on two halves of the canvas at the same time?
   - Time. Does anything change over time? Play with replacing a colour value with seconds()%255
