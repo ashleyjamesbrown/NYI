@@ -10,21 +10,25 @@
 
 ### create a new drawing tool (~1 hour) 
 
-- Create a new drawing tool! Using the skills built up in the first 
-- Include instructions on how to use
-- Document your code
-- Life drawing session (using someone else's drawing tool)
-- coffee break!
+- Create a new drawing tool! Using the skills you've learnt this morning, create a new drawing tool, don't be afraid to experiment but also simple can be effective!
+- There are two rules: 
+  - There must be text instructions on how to use your tool on screen! Other people need to be able to use your new tool without you telling them how it works.
+  - Your code must be fully commented. Other people will need to understand your code without you being there to explain it. Use double forward slash // to comment
+- Here's a basic example to start from: [simple_paint_01](https://github.com/ashleyjamesbrown/NYI/blob/main/Tuesday/PM/simple_paint_01/simple_paint_01.pde)
+- Let's test the new tools, draw the still life (bowl of fruit)
+- then ... coffee break! - help yourself to fruit :-)
 
 ### improve a drawing tool (~1 hour)
 
-- Take someone else's tool. Improve it or use it to create something new!
+- Now, you are going to take someone else's code. Improve it or use it to create something new!
 - Update instructions on how to use.
 - Also document changes in the code. 
-- Life drawing session (using someone else's drawing tool)
+- Life drawing session, using someone else's tool and auto-pose suggester.
 - Exhibition!
 
-### Challenges and Ideas
+---
+
+### challenges and ideas
 
 - **Pen nib**. Explore different shape 'nibs' for your tool
   - Natural? Does your pen copy a real brush? 
@@ -42,6 +46,9 @@
 - **Time**
   - Does anything change over time? Play with replacing a colour value with seconds()%255
 
+---
+
 ### simplest ever drawing example
+
 ![](https://github.com/ashleyjamesbrown/NYI/blob/main/Tuesday/PM/images/simplest-ever-code.png)
 ![](https://github.com/ashleyjamesbrown/NYI/blob/main/Tuesday/PM/images/simplest-ever-screenshot.png)
