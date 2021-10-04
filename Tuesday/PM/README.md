@@ -56,7 +56,7 @@
 ![](https://github.com/ashleyjamesbrown/NYI/blob/main/Tuesday/PM/images/simplest-ever-code.png)
 ![](https://github.com/ashleyjamesbrown/NYI/blob/main/Tuesday/PM/images/simplest-ever-screenshot.png)
 
-### simple draw 
+### simple paint example 
 
 ![](https://github.com/ashleyjamesbrown/NYI/blob/main/Tuesday/PM/images/simple-paint-code.png)
 ![](https://github.com/ashleyjamesbrown/NYI/blob/main/Tuesday/PM/images/simple-paint-screenshot.png)
