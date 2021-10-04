@@ -15,6 +15,7 @@
   - There must be text instructions on how to use your tool on screen! Other people need to be able to use your new tool without you telling them how it works.
   - Your code must be fully commented. Other people will need to understand your code without you being there to explain it. Use double forward slash // to comment
 - Here's a basic example to start from: [simple_paint_01](https://github.com/ashleyjamesbrown/NYI/blob/main/Tuesday/PM/simple_paint_01/simple_paint_01.pde)
+- If you're stuck for ideas, have a browse through the [examples folder](https://github.com/ashleyjamesbrown/NYI/tree/main/Tuesday/PM/examples) above.
 - Let's test the new tools, draw the still life (bowl of fruit)
 - then ... coffee break! - help yourself to fruit :-)
 
