@@ -41,3 +41,7 @@
   - Symmetry. Can your pen draw on two halves of the canvas at the same time? 
 - **Time**
   - Does anything change over time? Play with replacing a colour value with seconds()%255
+
+### simplest ever drawing example
+![](https://github.com/ashleyjamesbrown/NYI/blob/main/Tuesday/PM/images/simplest-ever-code.png)
+![](https://github.com/ashleyjamesbrown/NYI/blob/main/Tuesday/PM/images/simplest-ever-screenshot.png)
