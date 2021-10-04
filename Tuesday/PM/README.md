@@ -41,7 +41,7 @@
   - Texture. Can you use a for loop in setup to give the paper some texture?
   - Photo. Can you import an image to use as the background?
   - Gradient. Use a for loop in setup to create a gradient to draw on.
--**Colour.** What colours are you using?
+- **Colour.** What colours are you using?
  - Can you copy the background colour from some real paper/canvas?
  - Can you use opacity/transparency? Add a fourth value to your colour to change transparency (Red, Green, Blue, Opacity)
  - Can you randomise the colour of the pen?
