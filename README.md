@@ -6,24 +6,24 @@ Link >
 
 Information and documentation in this padlet: https://padlet.com/m47k0/notyetinvented
 
-# Monday
+## Monday
 ANALOGUE / ELECTRONICS / NOISE / SENSORS
 
 Monday's resources are in this folder > 
 
-# Tuesday
+## Tuesday
 
 DIGITAL / CODING / PROCESSING / ART
 
-# Wednesday
+## Wednesday
 
 ARDUINO + PROCESSING
 
-# Thursday
+## Thursday
 
 IDEATION / DESIGN / PROJECT
 
-# Friday
+## Friday
 
 PROJECT / DEVELOPMENT / SHOW + TELL
 
