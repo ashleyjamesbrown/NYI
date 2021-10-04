@@ -1,6 +1,6 @@
 # Tuesday Afternoon 
 
-## Life Drawing with Processing
+## Drawing with Code
 
 ### 1.5hrs
 
