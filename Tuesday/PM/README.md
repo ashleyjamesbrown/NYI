@@ -41,10 +41,10 @@
   - Texture. Can you use a for loop in setup to give the paper some texture?
   - Photo. Can you import an image to use as the background?
   - Gradient. Use a for loop in setup to create a gradient to draw on.
--**Colour.** What colours are you using?
- - Can you copy the background colour from some real paper/canvas?
- - Can you use opacity/transparency? Add a fourth value to your colour to change transparency (Red, Green, Blue, Opacity)
- - Can you randomise the colour of the pen?
+- **Colour.** What colours are you using?
+  - Can you copy the background colour from some real paper/canvas?
+  - Can you use opacity/transparency? Add a fourth value to your colour to change transparency (Red, Green, Blue, Opacity)
+  - Can you randomise the colour of the pen?
 - **Special FX**
   - Symmetry. Can your pen draw on two halves of the canvas at the same time?
   - Time. Does anything change over time? Play with replacing a colour value with seconds()%255
@@ -56,7 +56,8 @@
 ![](https://github.com/ashleyjamesbrown/NYI/blob/main/Tuesday/PM/images/simplest-ever-code.png)
 ![](https://github.com/ashleyjamesbrown/NYI/blob/main/Tuesday/PM/images/simplest-ever-screenshot.png)
 
-### simple draw 
+### simple paint example 
+Copy this code from here: [simple_paint_01](https://github.com/ashleyjamesbrown/NYI/blob/main/Tuesday/PM/simple_paint_01/simple_paint_01.pde)
 
 ![](https://github.com/ashleyjamesbrown/NYI/blob/main/Tuesday/PM/images/simple-paint-code.png)
 ![](https://github.com/ashleyjamesbrown/NYI/blob/main/Tuesday/PM/images/simple-paint-screenshot.png)
