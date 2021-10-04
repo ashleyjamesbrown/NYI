@@ -2,16 +2,21 @@
 
 ## Drawing with Code
 
-### 1.5hrs
+### warm up (~30mins)
 
-- Group draw warmup (group draw!)
-- Create a new drawing tool.
+- Group draw warmup - one person plays computer and draws on the whiteboard, everyone gets one instruction to ask them to do.
+- The simplest life-drawing code ever. Copy my super simple example (type not copy and paste!) and let's do a quick drawing.
+- Warm up complete. You have exercised your drawing and coding skills and are ready to design your own drawing tool!
+
+### create a new drawing tool (~1 hour) 
+
+- Create a new drawing tool! Using the skills built up in the first 
 - Include instructions on how to use
 - Document your code
 - Life drawing session (using someone else's drawing tool)
 - coffee break!
 
-### 1.5hrs
+### improve a drawing tool (~1 hour)
 
 - Take someone else's tool. Improve it or use it to create something new!
 - Update instructions on how to use.
