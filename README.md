@@ -8,12 +8,12 @@ Information and documentation in this padlet: https://padlet.com/m47k0/notyetinv
 
 ## Monday
 ANALOGUE / ELECTRONICS / NOISE / SENSORS
-
-Monday's resources are in this folder > 
+Introduction to electronics. Make noise maker circuit. Build an e-textile pom-pom. Put the two together!
 
 ## Tuesday
 
 DIGITAL / CODING / PROCESSING / ART
+Introduction to Processing, then coding your own drawing tool.
 
 ## Wednesday
 
