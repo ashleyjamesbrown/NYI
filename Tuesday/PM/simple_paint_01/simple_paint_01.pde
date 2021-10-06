@@ -32,7 +32,9 @@ void draw() {
 
   // if a key is pressed, and it's the 'e' key, then set background to white
   if ((keyPressed)&&(key =='e')) {
+    //set background white
     background(255);
+    //drawinstructions
     drawInstructions();
   }
 }
