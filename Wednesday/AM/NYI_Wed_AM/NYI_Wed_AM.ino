@@ -1,13 +1,14 @@
 /*
   Coding cute numbers
   Becca Rose and Pete Bennett
-
-  1. get pot reading in serial
+  0. setup / blink
+  1. button
+  1. get pot reading in serial (button)
   2. make cute or add own text
   3. change pot for other sensor (DIY or ??)
-  4. get output working (blink LED)
-  5. combine part of blink with reading using if/else statement
+  4. combine part of blink with reading using if/else statement
   6. use map() to control LED light with sensor input reading
+  7. tone melody + other play with examples...tamagochi etc.
 */
 
 int mappedValue = 0;
