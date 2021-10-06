@@ -1,31 +1,40 @@
-// 1026 mapa
-// ashley james brown
-// simple simple processing to arduino comms
 
-char val; // Data received from the serial port
-int ledPin = 13; // Set the pin to digital I/O 4
+String inputString = "";         // a String to hold incoming data
+bool stringComplete = false;  // whether the string is complete
 
 void setup() {
-  pinMode(ledPin, OUTPUT); // Set pin as OUTPUT
-  Serial.begin(9600); // Start serial communication at 9600 bps
+  // initialize serial:
+  Serial.begin(9600);
+  // reserve 200 bytes for the inputString:
+  inputString.reserve(200);
+  pinMode(LED_BUILTIN,OUTPUT);
 }
 
 void loop() {
-
-  if (val == 'Y') { // If Y was received
-    digitalWrite(ledPin, HIGH); // turn the LED on
-  } else {
-    digitalWrite(ledPin, LOW); // Otherwise turn it OFF
+ 
+  if (stringComplete) {
+    //flash the led
+    digitalWrite(LED_BUILTIN, HIGH);
+    delay(50);
+    // clear the string ready for again receiving input:
+    inputString = "";
+    stringComplete = false; 
+    digitalWrite(LED_BUILTIN, LOW);
   }
-  delay(100); // Wait 100 milliseconds for next reading
+
+  
 }
-
-
 
 void serialEvent() {
-  while (Serial.available()) { // If data is available to read,
-    val = Serial.read(); // read it and store it in val
+  while (Serial.available()) {
+    // get the new byte:
+    char inChar = (char) Serial.read();
+    // add it to the inputString:
+    inputString += inChar;
+    // if the incoming character is a newline, set a flag so the main loop can
+    // do something about it:
+    if (inChar == '\n') {
+      stringComplete = true;
+    }
   }
 }
-
-
