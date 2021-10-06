@@ -26,13 +26,15 @@ void draw() {
 
 
 void mousePressed() {
-  //fill(0, 255, 0);                  
-  myPort.write('Y'); //y for yes
+  fill(0, 255, 0);                  
+  myPort.write('Y'); 
+  myPort.write('\n'); 
 }
 
 void mouseReleased() {
-  //fill(255, 0, 0);                     
-  myPort.write('N'); //for no
+  fill(255, 0, 0);                     
+  myPort.write('N');
+  myPort.write('\n'); 
 }
 
 
