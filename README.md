@@ -1,7 +1,7 @@
 # Not Yet Invented
 Not Yet Invented sessions run from 10am to 5pm each day with an hour for lunch around 1pm.
 
-We'll all be contributing to a shared space through "etehrpad" (like google docs but without the google!). 
+We'll all be contributing to a shared space
 Link > 
 
 Information and documentation in this padlet: https://padlet.com/m47k0/notyetinvented
